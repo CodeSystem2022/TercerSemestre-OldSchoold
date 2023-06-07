@@ -6,12 +6,12 @@ Proyecto tercer semestre del grupo OldSchoold. Donde encontraremos las clases de
 
 
 Integrantes: 
-Yair Mathez
-Francisco Tonidandel 
-Yessica Reynoso
-Tomas Cañete
-Julian Antequera
-Andrea Reynoso 
+Yair Mathez-
+Francisco Tonidandel-
+Yessica Reynoso-
+Tomas Cañete-
+Julian Antequera-
+Andrea Reynoso-
 
 
 
