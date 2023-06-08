@@ -1,11 +1,11 @@
-from NumeroIgualesException import NumerosIgualesException
+from numeroIgualesExceptiones import numerosIgualesExceptiones
 
 resultado = None
 try:
     a = int(input(" Digite el primer número: "))
     b = int(input("Digite el segundo número: "))
     if a == b:
-        raise NumerosIgualesException ('Son numeros iguales')
+        raise numerosIgualesExceptiones ('Son numeros iguales')
     resultado = a / b # modificamos
 except TypeError as e:
         print(f'TypeError - Ocurrió un error: {type(e)}')
