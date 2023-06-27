@@ -69,5 +69,5 @@
 | Semana 7 | - JavaScript clase 1, 2, 3, 4, 5       | Yair Mathez           |
 | Semana 8 | - Clases de Java 5-9                   | Julian Antequera      |
 | Semana 9 | - Agregar semana 8, clase 8 sobre capa de datos | Andrea Reynoso |
-| Semana 10 | - Clases 6, 7 y 8. Todo en la carpeta número 5/ Se agregan activiades de Pyton| Francisco Tonidandel-Andrea Reynoso |
+| Semana 10 | - Clases 6, 7 y 8. Todo en la carpeta número 5. JS  -Se agregan activiades de Pyton| Francisco Tonidandel-Andrea Reynoso |
 | Semana 11 | - Última clase Proyecto VENTAS        | Francisco Tonidandel  |
