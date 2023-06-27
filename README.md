@@ -52,7 +52,7 @@
   - Subir actividades relacionadas con Java.
 
 ## Presentación
-![Presentación](Programación Old School.gif)
+![Presentación](Programación%20Old%20School.gif)
 
 ¡Gracias por visitar nuestro repositorio!
 
