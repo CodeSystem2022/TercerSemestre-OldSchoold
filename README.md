@@ -1,4 +1,5 @@
 # TercerSemestre-OldSchoold
+![Presentación](Programación%20Old%20School.gif)
 
 # Equipo de Desarrollo - Método Scrum
 
@@ -51,8 +52,6 @@
   - Contribuir al desarrollo del proyecto.
   - Subir actividades relacionadas con Java.
 
-## Presentación
-![Presentación](Programación%20Old%20School.gif)
 
 ¡Gracias por visitar nuestro repositorio!
 
